@@ -1,0 +1,9 @@
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\bin\Debug\KennismakenProgrammeerOmgeving.exe.config
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\bin\Debug\KennismakenProgrammeerOmgeving.exe
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\bin\Debug\KennismakenProgrammeerOmgeving.pdb
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.csprojAssemblyReference.cache
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.FrmKennismakenProgrammeerOmgeving.resources
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.Properties.Resources.resources
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.csproj.GenerateResource.cache
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.exe
+C:\Users\rikme\Desktop\C#\KennismakenProgrammeerOmgeving\KennismakenProgrammeerOmgeving\obj\Debug\KennismakenProgrammeerOmgeving.pdb

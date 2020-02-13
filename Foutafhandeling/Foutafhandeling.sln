@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foutafhandeling", "Foutafhandeling\Foutafhandeling.csproj", "{1647D4A4-1EE2-43F3-9978-C3F0733912DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1647D4A4-1EE2-43F3-9978-C3F0733912DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1647D4A4-1EE2-43F3-9978-C3F0733912DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1647D4A4-1EE2-43F3-9978-C3F0733912DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1647D4A4-1EE2-43F3-9978-C3F0733912DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DACF309-A8CC-47E4-A306-C47978E9C4E6}
+	EndGlobalSection
+EndGlobal

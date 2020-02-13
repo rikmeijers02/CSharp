@@ -1,0 +1,9 @@
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\bin\Debug\DatumVoorbeeld.exe.config
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\bin\Debug\DatumVoorbeeld.exe
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\bin\Debug\DatumVoorbeeld.pdb
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.csprojAssemblyReference.cache
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.Properties.Resources.resources
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.csproj.GenerateResource.cache
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.exe
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.pdb
+C:\Users\rikme\Desktop\C#\DatumVoorbeeld\DatumVoorbeeld\obj\Debug\DatumVoorbeeld.datumvoorbeeld.resources

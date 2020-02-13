@@ -1,0 +1,9 @@
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe.config
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\bin\Debug\Webbrowser.pdb
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csprojAssemblyReference.cache
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.Properties.Resources.resources
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csproj.GenerateResource.cache
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.exe
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.pdb
+C:\Users\rikme\Desktop\C#\Webbrowser\Webbrowser\obj\Debug\Webbrowser.Webbrowser.resources

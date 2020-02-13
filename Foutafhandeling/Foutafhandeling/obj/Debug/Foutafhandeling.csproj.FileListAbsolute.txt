@@ -1,0 +1,9 @@
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\bin\Debug\Foutafhandeling.exe.config
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\bin\Debug\Foutafhandeling.exe
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\bin\Debug\Foutafhandeling.pdb
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.csprojAssemblyReference.cache
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.Foutvoorbeeld.resources
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.Properties.Resources.resources
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.csproj.GenerateResource.cache
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.exe
+C:\Users\Rik Meijers\source\repos\Foutafhandeling\Foutafhandeling\obj\Debug\Foutafhandeling.pdb

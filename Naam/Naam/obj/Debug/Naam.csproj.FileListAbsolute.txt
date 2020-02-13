@@ -1,0 +1,9 @@
+C:\Users\rikme\Desktop\C#\Naam\Naam\bin\Debug\Naam.exe.config
+C:\Users\rikme\Desktop\C#\Naam\Naam\bin\Debug\Naam.exe
+C:\Users\rikme\Desktop\C#\Naam\Naam\bin\Debug\Naam.pdb
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.csprojAssemblyReference.cache
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.Naam.resources
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.Properties.Resources.resources
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.csproj.GenerateResource.cache
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.exe
+C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.pdb
