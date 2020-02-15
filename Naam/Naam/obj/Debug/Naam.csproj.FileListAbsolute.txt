@@ -7,3 +7,12 @@ C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.Properties.Resources.resource
 C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.csproj.GenerateResource.cache
 C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.exe
 C:\Users\rikme\Desktop\C#\Naam\Naam\obj\Debug\Naam.pdb
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\bin\Debug\Naam.exe.config
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\bin\Debug\Naam.exe
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\bin\Debug\Naam.pdb
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.csprojAssemblyReference.cache
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.Naam.resources
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.Properties.Resources.resources
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.csproj.GenerateResource.cache
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.exe
+C:\Users\Rik Meijers\Desktop\School\C#\Naam\Naam\obj\Debug\Naam.pdb

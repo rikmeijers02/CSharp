@@ -30,12 +30,12 @@ namespace Invoer_Getallen
         {
             try
             {
+                errorProvider1.SetError(txbGetal1, "");
+                errorProvider1.SetError(txbGetal2, "");
                 sbyte getal1 = sbyte.Parse(txbGetal1.Text);
                 sbyte getal2 = sbyte.Parse(txbGetal2.Text);
                 int result = getal1 + getal2;
                 label2.Text = getal1.ToString() + " + " + getal2.ToString() + " = " + result.ToString();
-                errorProvider1.SetError(txbGetal1, "");
-                errorProvider1.SetError(txbGetal2, "");
             }
             catch (Exception exception)
             {

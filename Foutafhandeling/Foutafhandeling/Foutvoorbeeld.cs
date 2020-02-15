@@ -23,10 +23,10 @@ namespace Foutafhandeling
             double breuk = 0;
 
             try {
+                ErrorProvider1.SetError(txbGetal, "");
                 getal = double.Parse(txbGetal.Text);
                 breuk = 1 / getal;
                 MessageBox.Show("De breuk van " + getal.ToString() + " is: " + breuk.ToString(), "Bereken breuk");
-                ErrorProvider1.SetError(txbGetal, "");
             } catch (Exception exception) {
                 ErrorProvider1.SetError(txbGetal, exception.Message);
                 MessageBox.Show("Er is een fout opgetreden", "Error: " + exception.Message, MessageBoxButtons.OK, MessageBoxIcon.Error);

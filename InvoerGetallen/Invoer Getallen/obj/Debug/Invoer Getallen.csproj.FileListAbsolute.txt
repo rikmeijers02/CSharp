@@ -16,3 +16,12 @@ C:\Users\Rik Meijers\Downloads\OneDrive_2020-02-05\Invoer Getallen\Invoer Getall
 C:\Users\Rik Meijers\Downloads\OneDrive_2020-02-05\Invoer Getallen\Invoer Getallen\obj\Debug\Invoer Getallen.csproj.GenerateResource.cache
 C:\Users\Rik Meijers\Downloads\OneDrive_2020-02-05\Invoer Getallen\Invoer Getallen\obj\Debug\Invoer Getallen.exe
 C:\Users\Rik Meijers\Downloads\OneDrive_2020-02-05\Invoer Getallen\Invoer Getallen\obj\Debug\Invoer Getallen.pdb
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\bin\Debug\Invoer Getallen.exe.config
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\bin\Debug\Invoer Getallen.exe
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\bin\Debug\Invoer Getallen.pdb
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer Getallen.csprojAssemblyReference.cache
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer_Getallen.InvoerGetallen.resources
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer_Getallen.Properties.Resources.resources
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer Getallen.csproj.GenerateResource.cache
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer Getallen.exe
+C:\Users\Rik Meijers\Desktop\School\C#\InvoerGetallen\Invoer Getallen\obj\Debug\Invoer Getallen.pdb

@@ -29,7 +29,8 @@ namespace Naam
                 MessageBox.Show("Je moet eerst je naam invullen.", "Error: Geen naam!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             } else
             {
-                MessageBox.Show("Hallo " + txtboxNaam.Text + ".");
+                string name = txtboxNaam.Text;
+                MessageBox.Show("Hallo " + name + ".");
             }
         }
 
