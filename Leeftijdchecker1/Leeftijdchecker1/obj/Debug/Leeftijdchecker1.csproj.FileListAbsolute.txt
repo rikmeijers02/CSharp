@@ -1,9 +1,0 @@
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\bin\Debug\Leeftijdchecker1.exe.config
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\bin\Debug\Leeftijdchecker1.exe
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\bin\Debug\Leeftijdchecker1.pdb
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.csprojAssemblyReference.cache
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.LeeftijdChecker1.resources
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.Properties.Resources.resources
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.csproj.GenerateResource.cache
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.exe
-C:\Users\Rik Meijers\Desktop\School\C#\Leeftijdchecker1\Leeftijdchecker1\obj\Debug\Leeftijdchecker1.pdb

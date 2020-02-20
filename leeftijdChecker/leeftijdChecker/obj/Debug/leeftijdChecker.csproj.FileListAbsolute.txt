@@ -1,0 +1,9 @@
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\bin\Debug\leeftijdChecker.exe.config
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\bin\Debug\leeftijdChecker.exe
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\bin\Debug\leeftijdChecker.pdb
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.csprojAssemblyReference.cache
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.leeftijdChecker.resources
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.Properties.Resources.resources
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.csproj.GenerateResource.cache
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.exe
+C:\Users\rikme\source\repos\leeftijdChecker\leeftijdChecker\obj\Debug\leeftijdChecker.pdb
