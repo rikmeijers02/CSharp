@@ -33,7 +33,11 @@ namespace leeftijdChecker
                 int result2 = (int)calc1;
 
                 // If statements
-                if (result2 >= 18 && checkBoxM.Checked || checkBoxJ.Checked)
+                if (checkBoxM.Checked == true && result2 >= 18)
+                {
+                    MessageBox.Show("Je mag al alcohol drinken.", "18+", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else if (checkBoxJ.Checked == true && result2 >= 18)
                 {
                     MessageBox.Show("Je mag al alcohol drinken.", "18+", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
